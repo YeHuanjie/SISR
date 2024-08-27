@@ -1,4 +1,4 @@
 # SISR
-single image super resolution
-including algorithms:
-1 bicubic
+single image super resolution\
+including algorithms:\
+1 bicubic\
