@@ -24,3 +24,7 @@
 1 assess by psnr/ssim/msssim/gmsd /mdsi/gcsd
 
 2 data preprocess
+
+## [ more details ]
+
+see [sr.pdf](./sr.pdf)
